@@ -360,3 +360,10 @@ See also [the llm tag](https://simonwillison.net/tags/llm/) on my blog.
 
 * [Changelog](https://llm.datasette.io/en/stable/changelog.html)
 <!-- [[[end]]] -->
+
+## ⚡ Fast Migration Complete
+
+**Migration Date**: Sat Sep 27 23:30:31 EDT 2025
+**Files Migrated**:        6
+**Status**: Ready for integration
+
